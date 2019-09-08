@@ -1,0 +1,1 @@
+def conv2d_bn_relu(self, inputs, filter, kernel, stride, dilation, activation):
